@@ -8,6 +8,5 @@ public class Main {
         float bmi1 = service.calculate (100,180);
         System.out.printf("Индекс Массы Тела %.1f ",bmi1);
 
-
         }
 }
